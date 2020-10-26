@@ -26,7 +26,7 @@ I have co-founded and co-manage <a href="https://datahack.org.il/">DataHack</a>,
   <tbody>
     <tr>
       <td><a href="https://pdpipe.github.io/pdpipe/" target="_blank"><b>pdpipe</b></a></td>
-      <td>Easy pipelines for pandas DataFrames</td>
+      <td>Easy pipelines for 🐼 DataFrames</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pdpipe/pdpipe?style=flat-square&labelColor=343b41&label=*"/></td>
       <td><img alt="Downloads" src="https://pepy.tech/badge/pdpipe"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/pdpipe/pdpipe?style=flat-square&labelColor=343b41&label=Y"/></td>
@@ -35,7 +35,7 @@ I have co-founded and co-manage <a href="https://datahack.org.il/">DataHack</a>,
     </tr>
     <tr>
       <td><a href="https://pulearn.github.io/pulearn/" target="_blank"><b>pulearn</b></a></td>
-      <td>Positive-unlabeled learning with Python.</td>
+      <td>Positive-unlabeled learning w/ 🐍</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/pulearn/pulearn?style=flat-square&labelColor=343b41&label=*"/></td>
       <td><img alt="Downloads" src="https://pepy.tech/badge/pulearn"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/pulearn/pulearn?style=flat-square&labelColor=343b41&label=Y"/></td>
@@ -44,7 +44,7 @@ I have co-founded and co-manage <a href="https://datahack.org.il/">DataHack</a>,
     </tr>
     <tr>
       <td><a href="https://github.com/shaypal5/skift" target="_blank"><b>skift</b></a></td>
-      <td>scikit-learn wrappers for Python fastText.</td>
+      <td>sklearn wrappers for 🐍 fastText</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/shaypal5/skift?style=flat-square&labelColor=343b41&label=*"/></td>
       <td><img alt="Downloads" src="https://pepy.tech/badge/skift"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/shaypal5/skift?style=flat-square&labelColor=343b41&label=Y"/></td>
@@ -53,7 +53,7 @@ I have co-founded and co-manage <a href="https://datahack.org.il/">DataHack</a>,
     </tr>
     <tr>
       <td><a href="https://github.com/shaypal5/cachier" target="_blank"><b>cachier</b></a></td>
-      <td>Persistent, stale-free memoization decorators for Python.</td>
+      <td style="white-space:nowrap;">Persistent memoization 🐍 decorators</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/shaypal5/cachier?style=flat-square&labelColor=343b41&label=*"/></td>
       <td><img alt="Downloads" src="https://pepy.tech/badge/cachier"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/shaypal5/cachier?style=flat-square&labelColor=343b41&label=Y"/></td>
@@ -62,7 +62,7 @@ I have co-founded and co-manage <a href="https://datahack.org.il/">DataHack</a>,
     </tr>
     <tr>
       <td><a href="https://github.com/shaypal5/birch" target="_blank"><b>birch</b></a></td>
-      <td>Simple hierarchical configuration for Python packages.</td>
+      <td>Hierarchical config for 🐍 packages</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/shaypal5/birch?style=flat-square&labelColor=343b41&label=*"/></td>
       <td><img alt="Downloads" src="https://pepy.tech/badge/birch"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/shaypal5/birch?style=flat-square&labelColor=343b41&label=Y"/></td>
@@ -71,7 +71,7 @@ I have co-founded and co-manage <a href="https://datahack.org.il/">DataHack</a>,
     </tr>
     <tr>
       <td><a href="https://github.com/shaypal5/awesome-twitter-data" target="_blank"><b>awesome-twitter-data</b></a></td>
-      <td>A list of Twitter datasets and related resources.</td>
+      <td>Twitter datasets & resources</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/shaypal5/awesome-twitter-data?style=flat-square&labelColor=343b41&label=*"/></td>
       <td></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/shaypal5/awesome-twitter-data?style=flat-square&labelColor=343b41&label=Y"/></td>
