@@ -2,7 +2,11 @@
 <p> <a href="https://www.shaypalachy.com/" target="_blank"><img alt="My Personal Website" src="https://img.shields.io/badge/-My--Homepage-2e8b57?logo=nones&style=for-the-badge" /></a> <a href="https://medium.com/@shay.palachy" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> <a href="https://www.linkedin.com/in/shaypalachy/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="https://twitter.com/shaypal5" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<p>Hey there! I'm Shy. I live, code and consult on data science in Tel Aviv, Israel. I'm interested in doing data science and developing open source tools in Python. &nbsp; 🙂 </p>
+<p>Hey there! I'm Shy. I live, code and consult on data science in Tel Aviv, Israel. I'm interested in doing data science and developing open source tools in Python. <a href="https://www.bigpanda.io/">BigPanda</a>, <a href="https://www.forter.com/">Forter</a>, <a href="https://www.intezer.com/">Intezer</a>, <a href="https://www.bringg.com/">Bringg</a> and <a href="https://www.bankhapoalim.com/en">Bank Hapoalim</a> are among my clients. 🙂
+
+I have co-founded and co-manage <a href="https://datahack.org.il/">DataHack</a>, a non-profit / community / yearly hackathon dedicated to promoting data science and machine learning in Israel, and also runs projects such as <a href="https://www.meetup.com/DataHack/">DataTalks</a>, <a href="https://www.youtube.com/playlist?list=PLZYkt7161wELj7tRByroEgEqnuhU637Vq">DataNights</a> and <a href="https://www.facebook.com/groups/kaggleil/">Kaggle-IL<a/>. I have also founded <a href="https://www.facebook.com/groups/157877988136954/">NLPH</a>, a community meant to encourage and enable joint work on open NLP tools for Hebrew.
+
+</p>
 
 <!-- [![Shay's github stats](https://github-readme-stats.vercel.app/api?username=shaypal5)](https://github.com/anuraghazra/github-readme-stats) -->
 
