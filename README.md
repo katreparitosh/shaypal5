@@ -81,7 +81,7 @@ I have co-founded and co-manage <a href="https://datahack.org.il/">DataHack</a>,
 
   </tbody>
 </table>
-&nbsp;
+
 <h3>My Blog Posts</h3>
 <ul>
   <li><a href="https://towardsdatascience.com/data-science-project-flow-for-startups-282a93d4508d?source=friends_link&sk=7c29bb9683e4c3564d92d89d31a666d1" target="_blank"><b>🗄 &nbsp; Data Science Project Flow for Startups</b></a><br/><i>A data scientist’s take on our process.</i></li>
