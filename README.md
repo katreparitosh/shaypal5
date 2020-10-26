@@ -56,6 +56,25 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/shaypal5/cachier?style=flat-square&labelColor=343b41"/></td>        
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/shaypal5/cachier?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/shaypal5/birch" target="_blank"><b>birch</b></a></td>
+      <td>Simple hierarchical configuration for Python packages.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/shaypal5/birch?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://pepy.tech/badge/birch"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/shaypal5/birch?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/shaypal5/birch?style=flat-square&labelColor=343b41"/></td>        
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/shaypal5/birch?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/shaypal5/awesome-twitter-data" target="_blank"><b>awesome-twitter-data</b></a></td>
+      <td>A list of Twitter datasets and related resources.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/shaypal5/awesome-twitter-data?style=flat-square&labelColor=343b41"/></td>
+      <td></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/shaypal5/awesome-twitter-data?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/shaypal5/awesome-twitter-data?style=flat-square&labelColor=343b41"/></td>        
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/shaypal5/awesome-twitter-data?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+
   </tbody>
 </table>
 
