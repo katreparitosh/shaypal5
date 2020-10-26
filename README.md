@@ -38,6 +38,24 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/pulearn/pulearn?style=flat-square&labelColor=343b41"/></td>        
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/pulearn/pulearn?style=flat-square&labelColor=343b41"/></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/shaypal5/skift" target="_blank"><b>skift</b></a></td>
+      <td>scikit-learn wrappers for Python fastText.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/shaypal5/skift?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://pepy.tech/badge/skift"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/shaypal5/skift?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/shaypal5/skift?style=flat-square&labelColor=343b41"/></td>        
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/shaypal5/skift?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/shaypal5/cachier" target="_blank"><b>cachier</b></a></td>
+      <td>Persistent, stale-free memoization decorators for Python.</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/shaypal5/cachier?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Downloads" src="https://pepy.tech/badge/cachier"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/shaypal5/cachier?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/shaypal5/cachier?style=flat-square&labelColor=343b41"/></td>        
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/shaypal5/cachier?style=flat-square&labelColor=343b41"/></td>
+    </tr>
   </tbody>
 </table>
 
