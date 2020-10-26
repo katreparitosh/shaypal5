@@ -44,7 +44,7 @@ I have co-founded and co-manage <a href="https://datahack.org.il/">DataHack</a>,
     </tr>
     <tr>
       <td><a href="https://github.com/shaypal5/skift" target="_blank"><b>skift</b></a></td>
-      <td>sklearn wrappers for 🐍 fastText</td>
+      <td>sklearn wrappers for 🐍  fastText</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/shaypal5/skift?style=flat-square&labelColor=343b41&label=*"/></td>
       <td><img alt="Downloads" src="https://pepy.tech/badge/skift"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/shaypal5/skift?style=flat-square&labelColor=343b41&label=Y"/></td>
