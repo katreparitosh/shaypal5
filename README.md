@@ -27,7 +27,7 @@ I have co-founded and co-manage <a href="https://datahack.org.il/">DataHack</a>,
     <tr>
       <td><a href="https://pdpipe.github.io/pdpipe/" target="_blank"><b>pdpipe</b></a></td>
       <td>Easy pipelines for pandas DataFrames</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/pdpipe/pdpipe?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pdpipe/pdpipe?style=flat-square&labelColor=343b41&label=★"/></td>
       <td><img alt="Downloads" src="https://pepy.tech/badge/pdpipe"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/pdpipe/pdpipe?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/pdpipe/pdpipe?style=flat-square&labelColor=343b41"/></td>	    
@@ -36,7 +36,7 @@ I have co-founded and co-manage <a href="https://datahack.org.il/">DataHack</a>,
     <tr>
       <td><a href="https://pulearn.github.io/pulearn/" target="_blank"><b>pulearn</b></a></td>
       <td>Positive-unlabeled learning with Python.</td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/pulearn/pulearn?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/pulearn/pulearn?style=flat-square&labelColor=343b41&label=⭐"/></td>
       <td><img alt="Downloads" src="https://pepy.tech/badge/pulearn"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/pulearn/pulearn?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/pulearn/pulearn?style=flat-square&labelColor=343b41"/></td>        
