@@ -92,7 +92,7 @@ I have co-founded and co-manage <a href="https://datahack.org.il/">DataHack</a>,
   
   <li><a href="https://medium.com/@shay.palachy/inferring-causality-in-time-series-data-b8b75fe52c46?source=friends_link&sk=37de8f0c1ab78e04d3a5cf1cdc5f3282" target="_blank"><b>🔜 &nbsp; Inferring causality in time series data</b></a><br/><i>A concise review of the major approaches.</i></li>
   
-  <li><a href="https://towardsdatascience.com/understanding-the-scaling-of-l%C2%B2-regularization-in-the-context-of-neural-networks-e3d25f8b50db?source=friends_link&sk=134172b5e9624f873ba6421197fb7bd6" target="_blank"><b>🧠 &nbsp; Understanding the scaling of L² regularization in the context of neural networks</b></a><br/><i>A theoretical delve into the L2 equation.</i></li>
+  <li><a href="https://towardsdatascience.com/understanding-the-scaling-of-l%C2%B2-regularization-in-the-context-of-neural-networks-e3d25f8b50db?source=friends_link&sk=134172b5e9624f873ba6421197fb7bd6" target="_blank"><b>🧠 &nbsp; Understanding the scaling of L² regularization in the context of neural networks</b></a><br/><i>A theoretical delve into the L² equation.</i></li>
   
   <li><a href="https://towardsdatascience.com/stationarity-in-time-series-analysis-90c94f27322?source=friends_link&sk=df86eb7d8554c811da2e5dc77b72f53b" target="_blank"><b>📉 &nbsp; Stationarity in time series analysis</b></a><br/><i>A review of the concept and types of stationarity.</i></li>
   
