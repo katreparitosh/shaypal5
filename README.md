@@ -88,21 +88,21 @@ I have co-founded and co-manage <a href="https://datahack.org.il/">DataHack</a>,
 <ul>
   <li><a href="https://towardsdatascience.com/data-science-project-flow-for-startups-282a93d4508d?source=friends_link&sk=7c29bb9683e4c3564d92d89d31a666d1" target="_blank"><b>🗄 &nbsp; Data Science Project Flow for Startups</b></a><br/><i>A data scientist’s take on our process.</i></li>
   
-  <li><a href="https://medium.com/@shay.palachy/peer-reviewing-data-science-projects-7bfbc2919724?source=friends_link&sk=914d618224f713cbcabf1f6ead3ba3d9" target="_blank"><b>🔍 Peer Reviewing Data Science Projects</b></a><br/><i>Making your work more error-proof using peer scrutiny.</i></li>
+  <li><a href="https://medium.com/@shay.palachy/peer-reviewing-data-science-projects-7bfbc2919724?source=friends_link&sk=914d618224f713cbcabf1f6ead3ba3d9" target="_blank"><b>🔍 &nbsp; Peer Reviewing Data Science Projects</b></a><br/><i>Making your work more error-proof using peer scrutiny.</i></li>
   
-  <li><a href="https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d?source=friends_link&sk=158194696b5fe4cad9605f4648eb2a83" target="_blank"><b>📚 Document Embedding Techniques</b></a><br/><i>A review of notable literature on the topic.</i></li>
+  <li><a href="https://towardsdatascience.com/document-embedding-techniques-fed3e7a6a25d?source=friends_link&sk=158194696b5fe4cad9605f4648eb2a83" target="_blank"><b>📚 &nbsp; Document Embedding Techniques</b></a><br/><i>A review of notable literature on the topic.</i></li>
   
-  <li><a href="https://medium.com/@shay.palachy/inferring-causality-in-time-series-data-b8b75fe52c46?source=friends_link&sk=37de8f0c1ab78e04d3a5cf1cdc5f3282" target="_blank"><b>🔜 Inferring causality in time series data</b></a><br/><i>A concise review of the major approaches.</i></li>
+  <li><a href="https://medium.com/@shay.palachy/inferring-causality-in-time-series-data-b8b75fe52c46?source=friends_link&sk=37de8f0c1ab78e04d3a5cf1cdc5f3282" target="_blank"><b>🔜 &nbsp; Inferring causality in time series data</b></a><br/><i>A concise review of the major approaches.</i></li>
   
-  <li><a href="https://towardsdatascience.com/understanding-the-scaling-of-l%C2%B2-regularization-in-the-context-of-neural-networks-e3d25f8b50db?source=friends_link&sk=134172b5e9624f873ba6421197fb7bd6" target="_blank"><b>🧠 Understanding the scaling of L² regularization in the context of neural networks</b></a><br/><i>A theoretical delve into the L2 equation.</i></li>
+  <li><a href="https://towardsdatascience.com/understanding-the-scaling-of-l%C2%B2-regularization-in-the-context-of-neural-networks-e3d25f8b50db?source=friends_link&sk=134172b5e9624f873ba6421197fb7bd6" target="_blank"><b>🧠 &nbsp; Understanding the scaling of L² regularization in the context of neural networks</b></a><br/><i>A theoretical delve into the L2 equation.</i></li>
   
-  <li><a href="https://towardsdatascience.com/stationarity-in-time-series-analysis-90c94f27322?source=friends_link&sk=df86eb7d8554c811da2e5dc77b72f53b" target="_blank"><b>📉 Stationarity in time series analysis</b></a><br/><i>A review of the concept and types of stationarity.</i></li>
+  <li><a href="https://towardsdatascience.com/stationarity-in-time-series-analysis-90c94f27322?source=friends_link&sk=df86eb7d8554c811da2e5dc77b72f53b" target="_blank"><b>📉 &nbsp; Stationarity in time series analysis</b></a><br/><i>A review of the concept and types of stationarity.</i></li>
   
-  <li><a href="https://towardsdatascience.com/detecting-stationarity-in-time-series-data-d29e0a21e638?source=friends_link&sk=20318fcda95bc6be337f3d0740bc97d0" target="_blank"><b>📈 Detecting stationarity in time series data</b></a><br/><i>A theoretical and practical guide.</i></li>
+  <li><a href="https://towardsdatascience.com/detecting-stationarity-in-time-series-data-d29e0a21e638?source=friends_link&sk=20318fcda95bc6be337f3d0740bc97d0" target="_blank"><b>📈 &nbsp; Detecting stationarity in time series data</b></a><br/><i>A theoretical and practical guide.</i></li>
   
-  <li><a href="https://towardsdatascience.com/extensive-python-testing-on-travis-ci-4c24db9bf961?source=friends_link&sk=1f802db87726e285bc92b2f78c523045" target="_blank"><b>🧪 Extensive Python testing on Travis CI</b></a><br/><i>Testing open-source Python on several operating systems.</i></li>
+  <li><a href="https://towardsdatascience.com/extensive-python-testing-on-travis-ci-4c24db9bf961?source=friends_link&sk=1f802db87726e285bc92b2f78c523045" target="_blank"><b>🧪 &nbsp; Extensive Python testing on Travis CI</b></a><br/><i>Testing open-source Python on several operating systems.</i></li>
   
-  <li><a href="https://towardsdatascience.com/publishing-your-own-python-package-3762f0d268ec?source=friends_link&sk=2367f72c162c26862b1b843aa3b0ed95" target="_blank"><b>📦 Publishing your own Python package</b></a><br/><i>A practical guide to packaging Python code.</i></li>
+  <li><a href="https://towardsdatascience.com/publishing-your-own-python-package-3762f0d268ec?source=friends_link&sk=2367f72c162c26862b1b843aa3b0ed95" target="_blank"><b>📦 &nbsp; Publishing your own Python package</b></a><br/><i>A practical guide to packaging Python code.</i></li>
 </ul>
 
 [comment]: <> (Everything in https://simpleicons.org/ can be included in the ?logo= part of the medium badges)
