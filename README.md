@@ -20,7 +20,7 @@ I have co-founded and co-manage <a href="https://datahack.org.il/">DataHack</a>,
       <td><b>Downloads</b></td>
       <td><b>Forks</b></td>
       <td><b>Issues</b></td>
-      <td><b>Pull requests</b></td>
+      <td><b>PRs</b></td>
     </tr>
   </thead>
   <tbody>
